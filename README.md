@@ -1,5 +1,7 @@
  https://hokkanenmari.github.io/habit-tracker/
+ 
  https://github.com/HokkanenMari/habit-tracker
+ 
  Video timestamps: Introduction 0:00, Project overview and most interesting code 0:26, Demonstration 2:40, Conclusion 6:30
 
 Short description:
